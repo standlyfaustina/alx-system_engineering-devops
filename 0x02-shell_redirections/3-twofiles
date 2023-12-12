@@ -1,0 +1,2 @@
+#!/bin/bashid
+diff /etc/passwd /etc/hosts
